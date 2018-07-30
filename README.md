@@ -1,6 +1,6 @@
 # youtube
 
-> A Vue.js project
+> This is a youtube app build using Vue.js / Vuex / Vue-Router
 
 ## Build Setup
 
